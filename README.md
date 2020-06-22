@@ -1,6 +1,6 @@
 # expo-voting-app
  
- This is a simple web-app that allows users easily vote for the Inworks Expo People's Choice award.
+ This is a simple web-app that allows users easily vote for the Inworks Expo People's Choice award. It was created in PHP with a MySQL database and Bootstrap 4's CSS framework
  It includes a basic method of filtering out duplicate IP addresses by using a $_SERVER superglobal, so user's cannot vote twice.
  
  A Walkthough of the file structure:
